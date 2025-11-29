@@ -35,7 +35,7 @@ I'm a 21-year-old cybersecurity student with a Bachelor's in Computer Science an
 
 ## 📫 Connect With Me
 - **Email:** [pawarsunnysurendra@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/sunny-pawar-549206242?]
+- **LinkedIn:** [https://www.linkedin.com/in/sunny-pawar-549206242]
 - **TryHackMe:** [https://tryhackme.com/p/SunnyPawar]
 
 ---
