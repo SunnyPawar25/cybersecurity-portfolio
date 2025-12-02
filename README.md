@@ -16,7 +16,7 @@ I'm a 21-year-old cybersecurity student with a Bachelor's in Computer Science an
 
 ### TryHackMe Progress
 - Currently working through: Jr Penetration Tester Path
-- Rooms Completed: [69] and counting!
+- Rooms Completed: [71] and counting!
 - [View my TryHackMe profile](https://tryhackme.com/p/SunnyPawar)
 
 ### Certifications in Progress
